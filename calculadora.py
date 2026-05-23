@@ -5,3 +5,12 @@ def multiplicacao(): #Função de multiplicação entre dois números
     print(f"O produto entre {Fator_1} e {Fator_2} é {Produto}")
 
 multiplicacao()
+
+
+def divisao():  #Função de divisão entre dois números
+    dividendo = float(input("Por favor, digite o dividendo: "))
+    divisor = float(input("Por favor, digite o divisor:"))
+    quociente = dividendo / divisor
+    print(f"O quociente entre {dividendo} e {divisor} é {quociente}")
+
+divisao()
