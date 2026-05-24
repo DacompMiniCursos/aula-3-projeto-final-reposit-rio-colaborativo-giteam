@@ -1,3 +1,6 @@
+#Adicionando a função de somar
+def soma(a,b):
+    return a+b
 def multiplicacao(): #Função de multiplicação entre dois números
     Fator_1 = float(input("Por favor, digite o primeiro fator que você deseja multiplicar: "))
     Fator_2 = float(input("Por favor, digite o segundo fator que você deseja multiplicar: "))
