@@ -95,7 +95,7 @@ Erro: Digite um número válido!
 |------|--------|
 | [João Ricardo](https://github.com/Joaomb15) | Soma e Subtração |
 | [Eduardo Azevedo](https://github.com/EduReiss) | Multiplicação, Divisão e Tratamento de Erros |
-| [Arthur Ribe](https://github.com/arthuribe) | Hello world e Bye World|
+| [Arthur Ribe](https://github.com/arthuribe) | Hello world e GoodBye World|
 
 
 
